@@ -41,8 +41,10 @@ To run this project locally:
 ---
 
 ## 📸 Screenshots
+<img width="79" height="86" alt="image" src="https://github.com/user-attachments/assets/5f2a3577-2fe6-4742-be8d-a638e1f16f25" />
+<img width="359" height="705" alt="image" src="https://github.com/user-attachments/assets/c791ec0e-90b1-4457-bdd0-511eb92f26e1" />
 
-*(Add screenshots of your app here if available)*
+<img width="386" height="717" alt="image" src="https://github.com/user-attachments/assets/11839036-66e3-40fb-9ef5-91a42ef2f4ea" />
 
 ---
 
