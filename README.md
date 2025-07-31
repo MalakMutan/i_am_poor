@@ -1,16 +1,63 @@
-# i_am_poor
 
-A new Flutter project.
 
-## Getting Started
+````markdown
+# 💰 i_am_poor
 
-This project is a starting point for a Flutter application.
+A simple Flutter application created for practice and learning.  
+This app is part of the "I Am Poor" challenge project, designed to get started with building mobile UIs using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Minimal and clean UI
+- Static image and basic widget layout
+- A great first step to understand how Flutter works
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MalakMutan/i_am_poor.git
+   cd i_am_poor
+````
+
+2. **Get Flutter packages:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your app here if available)*
+
+---
+
+## 📚 Resources
+
+If you're new to Flutter, here are some helpful resources:
+
+* [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+* [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+* [Flutter Documentation](https://docs.flutter.dev)
+
+---
+
+## 👩‍💻 Author
+
+**Malak Mu'tan**
+📫 [LinkedIn](https://www.linkedin.com/in/malakmutan/) 
+
